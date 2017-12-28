@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NTPC Maps</string>
+    <string name="clickable">Clickable</string>
+    <string name="stroke_width">stroke width</string>
+    <string name="fill_alpha">Fill Alpha</string>
+    <string name="fill_hue">fill_hue</string>
+    <string name="drawer_open">drawer open</string>
+    <string name="drawer_close">drawer close</string>
+    <string name="properties_sydney_polygon">Properties for Sydney Polygon</string>
+</resources>

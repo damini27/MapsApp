@@ -1,0 +1,218 @@
+{
+  "PowerPlants": [
+    {
+      "Name" : "Sangrauli",
+      "State": "Uttar Pradesh",
+      "Type":"coal",
+      "Address":"P.O. Shaktinagar-231 222, Dist. Sonebhadra, Uttar Pradesh",
+      "Telephone":"(STD-05446) - 232441",
+      "Fax": "232432",
+      "Approved Capacity":"2000MW",
+      "Installed Capacity": "2000MW","Coal Source":"Jayant/Bina Mines",
+      "Water Source":"Rihand Reservoir",
+      "Beneficiary States":"Uttar Pradesh, Uttranchal ,Rajasthan, Punjab, Haryana, Delhi and Jammu & Kashmir, Himachal Pradesh, Chandigarh",
+      "Approved Investment":"Rs. 1190.69 Crore",
+      "Unit sizes":"Stage - I: 5x 200 MW Stage -II: 2x 500 MW",
+      "Units Comissioned":"Unit -I 200 MW February 1982 Unit -II 200 MW November 1982 Unit -III 200 MW March 1983 Unit -IV 200 MW November 1983 Unit -V 200 MW February 1984 Unit -VI 500 MW December 1986 Unit -VII 500 MW November 1987",
+      "International Assistance":"IDA KWF",
+      "Latitude":24.105168, "Longitude":82.706383
+    },
+    {
+      "Name" : "Korba",
+      "State": "Chhattisgarh",
+      "Type":"coal",
+      "Address":"P.O. Vikas Bhawan, Jamanipali-495 450,Dist. Korba, Chattisgarh",
+      "Telephone":"(STD-07759)-233021",
+      "Fax": "233095",
+      "Approved Capacity":"2600 MW",
+      "Installed Capacity": "2600 MW",
+      "Coal Source":"Kusmundha Block, Gevra Mines",
+      "Water Source":"Hasdeo River",
+      "Beneficiary States":"Madhya Pradesh,Chattisgarh, Maharashtra, Gujarat, Goa, Daman, Diu & Nagar Haveli",
+      "Approved Investment":"Rs. 2448.49 Crore",
+      "Unit sizes":"Stage - I: 3x 200 MW Stage -II: 3x 500 MW Stage -III: 1x500 MW",
+      "Units Comissioned":"Unit -I 200 MW March 1983 Unit -II 200 MW October 1983 Unit -III 200 MW March 1984 Unit -IV 500 MW May 1987 Unit -V 500 MW March 1988 Unit -VI 500 MW March 1989 Unit -VII 500 MW December 2010",
+      "International Assistance":"IDA OPEC KFW",
+      "Latitude":22.413889, "Longitude":82.65173
+    },
+    {
+      "Name" : "Ramagundam",
+      "State": "Telangana",
+      "Type":"coal",
+      "Address":"P.O. Jyothinagar,Dist. Karim Nagar-505 215, Telangana",
+      "Telephone":"(STD-08728) - 272125",
+      "Fax": "272122",
+      "Approved Capacity":"2600 MW",
+      "Installed Capacity": "Stage I : 3X200 MW Stage II : 3X500 MW Stage III : 1X500 MW",
+      "Coal Source":"(i) South Godavari Coal Fields of Singrani Collieries for Stage I & II (ii) Korba Coal Fields of SECL for Stage III",
+      "Water Source":"Sri Ram Sagar Dam on Godavari River, D-83 Canal from pochampad Reservoir",
+      "Beneficiary States":"Pondicherry, Goa, Kerala, Karnataka, Tamil Nadu, Telangana, PGCIL (for HVDC)",
+      "Approved Investment":"Rs. 2059.22 Cr Stage I & II Rs. 1818.46 Cr Stage III",
+      "Unit sizes":"Stage - I: 3x 200 MWStage -II: 3x 500 MW",
+      "Units Comissioned":"Unit -I 200 MW November 1983 Unit -II 200 MW May 1984 Unit -III 200 MW December 1984 Unit -IV 500 MW June 1988 Unit -V 500 MW March 1989 Unit -VI 500 MW October 1989","International Assistance":"IDA IBRD loan OPEC KFW EXIM Bank, Japan. SFD","Latitude":18.773696, "Longitude":79.473147
+    },
+    {
+      "Name" : "Farakka",
+      "State": "West Bengal",
+      "Type":"coal",
+      "Address":"P.O. Nabarun-742 236,Dist. Murshidabad,West Bengal (STD-FKN-03485, KJT-03512)",
+      "Telephone":"(STD-FKN-03485, KJT-03512) KJT -224241 FKN - 252131",
+      "Fax":"KJT-26449",
+      "Approved Capacity":"2100 MW", "Installed Capacity": "2100 MW",
+      "Coal Source":"Rajmahal Coal Fields of ECL",
+      "Water Source":"Farakka Feeder Canal",
+      "Beneficiary States":"West Bengal, Bihar,Jharkhand, Orissa, Sikkim, Assam, Tripura and Damodar Valley Corporation.",
+      "Approved Investment":"Stage I: Rs. 730.93 Crore Stage II: Rs. 2453.29 Crore",
+      "Unit sizes":"Stage - I: 3x 200 MWStage -II: 2x 500 MW Stage -III expansion of Farakkaa STPP is approved with the addition of one 500 MW unit.",
+      "Units Comissioned":"Unit -I 200 MW January 1986 Unit -II 200 MW December 1986 Unit -III 200 MW August 1987 Unit -IV 500 MW September 1992 Unit -V 500 MW February 1994 Unit -VI 500 MW March 2011",
+      "International Assistance":"IBRD KFW Italian assistance, Banker's Trust co. EXIM Bank, Japan, IDA","Latitude":24.782831, "Longitude":87.904025
+    },
+    {
+      "Name" : "Vindhyachal",
+      "State": "Madya Pradesh",
+      "Type":"coal", "Address":"P.O. Vindhyanagar-486 885,Dist. Singrauli, Madhya Pradesh",
+      "Telephone":"(STD-VND-07805, SKTN-05446) - 244010",
+      "Fax": "244011",
+      "Approved Capacity":"4760 MW (Stage-I 1260 MW + Stage-II 1000 MW + Stage-III 1000MW + Stage-IV 1000MW + Stage-V 500 MW)",
+      "Installed Capacity": "3760 MW","Coal Source":"Nigahi Mines","Water Source":"Discharge canal of Singrauli Super Thermal Power Station.","Beneficiary States":"Madhya Pradesh,Chattisgarh, Maharashtra, Gujarat,Goa, Daman & Diu and Dadar Nagar Haveli.","Approved Investment":"Stage I & II- Rs.4053.42 Crore + Stage-III Rs. 4201.5 crs.",
+      "Unit sizes":"Stage I: 6x 210 MW + Stage-II: 2x500 MW + Stage III: 2x 500 MW .","Units Comissioned":"Unit -I: 210 MW October 1987 Unit -II: 210 MW July 1988 Unit -III: 210 MW February 1989 Unit -IV: 210 MW December 1989 Unit -V: 210 MW March 1990 Unit -VI:210 MW February 1991 Unit -VII: 500 MW March 1999 Unit -VIII: 500 MW February 2000 Unit -IX: 500 MW July 2006 Unit -X: 500 MW March 2007Unit -XI: 500 MW June 2012","International Assistance":"USSR - Stage I World Bank under Time Slice loan - Stage II","Latitude":24.097737, "Longitude":82.689371
+    },
+    {
+      "Name" : "Rihand",
+      "State": "Uttar Pradesh",  "Type":"coal", "Address":"P.O. Rihandnagar-231 223,Dist. Sonebhadra, Uttar Pradesh", "Telephone":"(STD-05446) - 242020-21","Fax": "242115","Approved Capacity":"2500 MW", "Installed Capacity": "Stage I : 1000 MW Stage II : 1000 MW","Coal Source":"Amlori Mines & Dudhichua Mines & Amloric Expansion Mines","Water Source":"Rihand Reservoir.","Beneficiary States":"Uttar Pradesh, Uttranchal ,Haryana, Punjab, Rajasthan, Jammu & Kashmir, Himachal Pradesh, Delhi and Chandigarh.","Approved Investment":"Rs. 2387.40Cr (Stage-I). Rs. 3451.97Cr (Stage-II).","Unit sizes":"5x 500 MW","Units Comissioned":"Unit -I 500 MW March 1988Unit -II 500 MW July 1989Unit -III 500 MW January 2005Unit -IV 500 MW September 2005Unit -V 500 MW May 2012","International Assistance":"United Kingdom","Latitude":24.025995, "Longitude":82.815939
+    },
+    {
+      "Name" : "Kahalgaun",
+      "State": "Bihar",  "Type":"coal", "Address":"P.O. Kahalgaon - 813214, Dist. Bhagalpur, Bihar", "Telephone":"(STD-06429) - 200333","Fax": "200646","Approved Capacity":"Stage-I 840 MW + Stage-II 1500 MW", "Installed Capacity": "2340 MW","Coal Source":"Rajmahal Coal Fields of ECL.","Water Source":"Ganga River","Beneficiary States":"West Bengal, Bihar,Jharkhand, Orissa, Sikkim","Approved Investment":"Stage-I Rs.2038.97 Crore Stage-II Phase-I Rs. 4002.28 Crores Stage-II Phase-II Rs. 1866.10 Crores","Unit sizes":"4X210 MW+3x500MW","Units Comissioned":"Unit -I: 210 MW March 1992 Unit -II: 210 MW March 1994 Unit -III: 210 MW March 1995 Unit -IV: 210 MW March 1996 Unit -V: 500 MW March, 2007 Unit -VI: 500 MW March, 2008 Unit -VII: 500 MW June, 2009","International Assistance":"USSR for Stage-I","Latitude":25.240814, "Longitude":87.266936
+    },
+    {
+      "Name" : "Dadri",
+      "State": "Uttar Pradesh",  "Type":"coal", "Address":"NTPC-Dadri,Vidyut Nagar-201 008,Dist. Gautambudhnagar, Uttar Pradesh", "Telephone":"2671284","Fax": "2672330","Approved Capacity":"1820 MW", "Installed Capacity": "1820","Coal Source":"Piparwar Mines, Jharkhand","Water Source":"Upper Ganga Canal, Mat Branch","Beneficiary States":"Delhi, U.P.","Approved Investment":"Rs. 1669.21 Crores.","Unit sizes":"4X210 MW + 2X490 MW","Units Comissioned":"Unit I- 210 MW October 1991 Unit II- 210 MW December 1992 Unit III- 210 MW March 1993 Unit IV- 210 MW March 1994 Unit V- 490 MW January 2010 Unit VI- 490 MW July 2010","International Assistance":"IBRD","Latitude":28.5983, "Longitude":77.609444
+    },
+    {
+      "Name" : "Talcher",
+      "State": "Orissa",  "Type":"coal", "Address":"P.O. Deepshikha (Kaniha)-759 147 Dist. Angul, Orissa", "Telephone":"(STD-06760) - 243252","Fax": "232423","Approved Capacity":"3000 MW", "Installed Capacity": "Stage I : 1000 MW Stage II : 2000 MW (Under Construction)","Coal Source":"Talcher Coal Field Lingraj Block.","Water Source":"Samal Barrage Reservoir Samal Barrage Reservoir on river Brahmani","Beneficiary States":"Orrisa, Bihar, Sikkim, Assam, Tripura & Damodar Valley Corporation, WB, Jharkhand for Stage I AP, Kerala, Karnataka, TN,Pondichery for Stage II","Approved Investment":"Rs.9241.01 Crore","Unit sizes":"6 X 500 MW","Units Comissioned":"Stage I Unit - I : 500 MW February 1995 Unit - II : 500 MW March 1996 Stage II Unit - III : 500 MW January 2003 Unit - IV : 500 MW October 2003","International Assistance":"IBRD French loan","Latitude":21.08833, "Longitude":85.080556
+    },
+    {
+      "Name" : "FerozGandhi Unchar",
+      "State": "Uttar Pradesh",  "Type":"coal", "Address":"P.O. Unchahar, Dist. Rai Bareilly, Uttar Pradesh - 229406", "Telephone":"(STD-05311) - 211-2620","Fax": "221065","Approved Capacity":"1050 MW", "Installed Capacity": "Stage I & II : 840 MW (2 x 210 + 2 x 210 MW) Stage III : 210 MW (1 x 210 MW)","Coal Source":"North Karanpura.","Water Source":"Sarda Sahayak Canal","Beneficiary States":"Uttar Pradesh, Haryana, Himachal Pradesh, J&K, Punjab, Rajasthan, Chandigarh, Delhi, Uttranchal","Approved Investment":"Stage I & II : Rs.2337.09 Crores Stage III : Rs. 938.61 Crores","Unit sizes":"5x210 MW","Units Comissioned":"Unit I : 210 MW November 1988 Unit II : 210 MW March 1989 Unit III : 210 MW January 1999 Unit IV : 210 MW October 1999 Unit V : 210 MW Sepetmeber 2006","International Assistance":"ADB","Latitude":25.91444, "Longitude":81.326667
+    },
+    {
+      "Name" : "Talchar Thermal",
+      "State": "Orissa",  "Type":"coal", "Address":"P.O. Talcher Thermal Dist. Angul-759 101, Orissa", "Telephone":"(STD-06760) - 249101","Fax": "249053","Approved Capacity":"460 MW", "Installed Capacity": "460 MW","Coal Source":"Jagannath Mines of MCL","Water Source":"Brahmini River","Beneficiary States":"Orissa","Approved Investment":"Rs.356 Crore (Total consideration for the transfer from OSEB to NTPC payable by NTPC).","Unit sizes":"4x60 MW2x110 MWTaken over from Orissa state Electricity Board on 03.06.95","Units Comissioned":"-","International Assistance":"","Latitude":20.910278, "Longitude":85.206667
+    },
+    {
+      "Name" : "Simhadri",
+      "State": "Telangana",  "Type":"coal", "Address":"P.O. Simhadri-531 020, Dist. Vishakhapatnam, Andhra Pradesh", "Telephone":"(STD-08924,STD-Vizag-0891) - 243001","Fax": "243092","Approved Capacity":"2000 MW", "Installed Capacity": "2000 MW","Coal Source":"Kalinga Block of Talcher Coal fields in Orrisa","Water Source":"Yeluru canal for sweet water, Sea water for CW system.","Beneficiary States":"Andhra Pradesh (100%) .","Approved Investment":"Rs.3650.79 Cr.(I Qtr.97).","Unit sizes":"4X500 MW","Units Comissioned":"Unit-I Commissioning: Feb 2002 Unit-II Commissioning: Aug 2002 Unit-III Commissioning: Mar 2011 Unit-IV Commissioning: Mar 2012","International Assistance":"JBIC","Latitude":17.5938, "Longitude":83.0897
+    },
+    {
+      "Name" : "Tanda",
+      "State": "Uttar Pradesh",  "Type":"coal", "Address":"P.O. Vidyutnagar, Dist. Ambedkarnagar, Uttar Pradesh", "Telephone":"(STD-05273) - 222098","Fax": "222069","Approved Capacity":"440 MW (4 x 110 MW)", "Installed Capacity": "440 MW","Coal Source":"North Karnpura Coal Fields","Water Source":"Tanda Pump Canal on Saryu River","Beneficiary States":"Uttar Pradesh","Approved Investment":" Rs. 693 Crores (Taken over from UPSEB in Jan, 2000).","Unit sizes":"","Units Comissioned":"","International Assistance":"","Latitude":26.55, "Longitude":82.65 },
+    {
+      "Name" : "Badarpur",
+      "State": "New Delhi",  "Type":"coal", "Address":"Badarpur,New Delhi – 110 044", "Telephone":"(STD-011) - 26902100","Fax": "","Approved Capacity":"720 MW", "Installed Capacity": "720 MW","Coal Source":"Jharia Coal Fields","Water Source":"Agra Canal","Beneficiary States":"Delhi","Approved Investment":"","Unit sizes":"3X95 MW 2X210 MW","Units Comissioned":"Unit I- 95 MW - July 1973  Unit II- 95 MW August 1974 Unit III- 95 MW March 1975 Unit IV - 210 MW December 1978  Unit V - 210 MW - December 1981","International Assistance":"Ownership of BTPS was transferred to NTPC with effect from 01.06.2006 through GOI’s Gazette Notification.","Latitude":28.505556, "Longitude":77.306944
+    },
+    {
+      "Name" : "Sipat",
+      "State": "Chhattisgarh",  "Type":"coal", "Address":"P.O. Ujjwal Nagar, Sipat, Distirct – Bilaspur, Chhatisgarh - 495555", "Telephone":"(STD Code – 07752) 246501","Fax": "246506","Approved Capacity":"2980 MW", "Installed Capacity": "2980 MW","Coal Source":"Dipika Mines of South Eastern Coalfields","Water Source":"RBC originating from Hasdeo Barrage","Beneficiary States":"Chhastisgarh, M.P, Maharashtra,Gujarat, Goa, Daman & Diu, Dadra & Nagar Haveli.","Approved Investment":"Stage I - Rs.9456.12 Crore + Stage-II Rs. 4730.13 Crore.","Unit sizes":"Stage - I: 3x 660 MWStage -II: 2x 500 MW","Units Comissioned":"Unit - I 660 MW June 2011 Unit - II 660 MW December 2011 Unit - III 660 MW June 2012 Unit -IV 500 MW May 2007 Unit -V 500 MW August 2008","International Assistance":"ADB – II","Latitude":22.1316, "Longitude":82.292
+    },
+    {
+      "Name" : "Mauda",
+      "State": "Maharashtra",  "Type":"coal", "Address":"", "Telephone":"","Fax": "","Approved Capacity":"", "Installed Capacity": "1660","Coal Source":"","Water Source":"","Beneficiary States":"","Approved Investment":"","Unit sizes":"","Units Comissioned":"","International Assistance":"","Latitude":21.179722, "Longitude":79.397222
+    },
+    {
+      "Name" : "Barh",
+      "State": "Bihar",  "Type":"coal", "Address":"", "Telephone":"","Fax": "","Approved Capacity":"", "Installed Capacity": "1320","Coal Source":"","Water Source":"","Beneficiary States":"","Approved Investment":"","Unit sizes":"","Units Comissioned":"","International Assistance":"","Latitude":25.4865, "Longitude":85.745167
+    },
+    {
+      "Name" : "Bonglagaun",
+      "State": "Assam",  "Type":"coal", "Address":"", "Telephone":"","Fax": "","Approved Capacity":"", "Installed Capacity": "250","Coal Source":"","Water Source":"","Beneficiary States":"","Approved Investment":"","Unit sizes":"","Units Comissioned":"","International Assistance":"","Latitude":26.441396, "Longitude":90.377394
+    },
+    {
+      "Name" : "Anta",
+      "State": "Rajasthan",  "Type":"gas", "Address":"P.O. Anta,Dist. Baran-325 209,Rajasthan", "Telephone":"(STD-07457) - 2244609","Fax": "244453","Approved Capacity":"413 MW", "Installed Capacity": "419.33","Coal Source":"HBJ Pipeline - South Basin Gas field","Water Source":"Anta Kota Right Main Canal","Beneficiary States":" Uttar Pradesh,Jammu & Kashmir Himachal Pradesh, Chandigarh, Rajasthan, Haryana, Punjab, Delhi & Uttaranchal","Approved Investment":"Rs. 418.97 Crore","Unit sizes":"3X88.71 GT + 1X153.2 ST","Units Comissioned":"Unit - I 88 MW GT January 1989 Unit - II 88 MW GT March 1989 Unit - III 88 MW GT May 1989 Unit - IV 149 MW ST March 1990","International Assistance":"IBJ and World Bank","Latitude":25.183889, "Longitude":76.319444
+    },
+    {
+      "Name" : "Auralya",
+      "State": "Uttar Pradesh",  "Type":"gas", "Address":"P.O. Dibiyapur,Dist. Auraiya-206 244,Uttar Pradesh", "Telephone":"(STD-05683) 0 282615/282336","Fax": "282341","Approved Capacity":"652 MW","Installed Capacity": "663.36","Coal Source":"HBJ Pipeline - South Basin Gas field","Water Source":"Auraiya - Etawah Canal","Beneficiary States":"Uttar Pradesh,Jammu & Kashmir, Himachal Pradesh, Chandigarh, Rajasthan, Haryana, Punjab , Delhi & Uttranchal","Approved Investment":"Rs. 678.77 Crore","Unit sizes":"4X110 GT + 2X106 ST","Units Comissioned":"Unit I- 110 MW GT March 1989Unit II- 110 MW GT July 1989 Unit III- 110 MW GT August 1989 Unit IV- 110 MW GT September 1989 Unit V- 106 MW ST December 1989Unit VI- 106 MW ST June 1990","International Assistance":"IBJ and World Bank.","Latitude":26.628611, "Longitude":79.527778
+    },
+    {
+      "Name" : "Kawas",
+      "State": "Gujarat",  "Type":"gas", "Address":"P.O. Aditya Nagar,Dist. Surat -394 516,Gujarat", "Telephone":"(STD-0261) - 2860445-448","Fax": "2310732","Approved Capacity":"645 MW", "Installed Capacity": "645 MW","Coal Source":"HBJ Pipeline - South Basin Gas field","Water Source":"Hazira Branch Canal Singanpur Weir","Beneficiary States":"Madhya Pradesh,Gujarat Maharashtra, Goa, Daman & Diu, Dadar Nagar Haveli, Chattisgarh","Approved Investment":"Rs. 1599.57 Crore","Unit sizes":"4X106 GT 2X110.5 ST","Units Comissioned":"Unit I- 106 MW GT March 1992 Unit II- 106 MW GT May 1992 Unit III- 106 MW GT June 1992 Unit IV- 106 MW GT November 1992 Unit V- 110.5 MW ST February 1993 Unit VI- 110.5 MW ST March 1993","International Assistance":"France and Belgium","Latitude":21.170556, "Longitude":72.688889
+    },
+    {
+      "Name" : "Dadri",
+      "State": "Uttar Pradesh",  "Type":"gas", "Address":"NTPC-Dadri,Vidyut Nagar-201 008,Dist. Gautambudhnagar, Uttar Pradesh", "Telephone":"2671284","Fax": "2672330","Approved Capacity":"817MW", "Installed Capacity": "829.78","Coal Source":"HBJ Pipe line/ 3 MMSCMD (APM Gas) Alternate Fuel: HSD","Water Source":"Upper Ganga Canal","Beneficiary States":"U.P.,Uttrakhand,Rajasthan,Delhi,Punjab,Haryana,HP,J&K,Chandigarh,Railways","Approved Investment":"","Unit sizes":"4 GTX 130.19 MW + 2 STX 154.51 MW","Units Comissioned":"GT-I- 130.19 MW May 1992 GT II- 130.19 MW June1992 GT III-130.19 MW August1992 GT IV-130.19 MW December1992 ST-I- 154.51 MW August 1996 ST-II- 154.51 MW April 1997","International Assistance":"KfW","Latitude":28.598333, "Longitude": 77.609444
+    },
+    {
+      "Name" : "Jhanor-Gandhar",
+      "State": "Gujarat",  "Type":"gas", "Address":"P.O. Urja Nagar,Dist. Bharuch, Gujarat – 392 215", "Telephone":"(STD-02642) - 287401","Fax": "287426","Approved Capacity":"648 MW", "Installed Capacity": "648 MW","Coal Source":"Gandhar Gas field","Water Source":"River Narmada","Beneficiary States":"Madhya Pradesh, Gujarat, Maharashtra, Goa, Daman, Diu, Dadar and Nagar Haveli, Chattisgarh","Approved Investment":"Rs. 2500 Crore","Unit sizes":"3X131 GT +1X255 ST","Units Comissioned":"Unit I- 131 MW GT March 1994 Unit II- 131 MW GT March 1994 Unit III- 131 MW GT May 1994 Unit IV- 255 MW GT March 1995","International Assistance":"OECF JAPAN","Latitude":21.78, "Longitude":72.979167
+    },
+    {
+      "Name" : "Rajiv Gandhi CCPP Kayamlulam",
+      "State": "Kerela",  "Type":"gas", "Address":"P.O. Choolatheruvu,Dist. Alappuzha-690 506,Kerala", "Telephone":"","Fax": "","Approved Capacity":"350 MW", "Installed Capacity": "350 MW Net (Gross - 359.577 MW)","Coal Source":"Imported/Indigenous Naphtha","Water Source":"Sweet Water from Achankovil river","Beneficiary States":"Kerala & Tamil Nadu (with consent of Kerala)","Approved Investment":"Rs.1189.94 Crore","Unit sizes":"2x115.2 +1x129.177","Units Comissioned":"GT 1 - November 1998 GT 2 - February 1999 ST - October 1999","International Assistance":"Time slice loan of World Bank","Latitude":9.238889, "Longitude":76.430278
+    },
+    {
+      "Name" : "Faridabad",
+      "State": "Haryana",  "Type":"gas", "Address":"Village – Mujedi,P.O. Neemka,Dist. Faridabad,Haryana", "Telephone":"(STD-0129) - 2401801","Fax": "2249737","Approved Capacity":"430MW (Nominal)", "Installed Capacity": "431.59","Coal Source":"HBJ Pipeline","Water Source":"Rampur distributories of Gurgaon canal","Beneficiary States":"Haryana (100%)","Approved Investment":"Rs.1163.60 Cr. (IV Qtr.96)","Unit sizes":"2(GT)+1ST GT-143 MW, ST-144MW","Units Comissioned":"GT-I : June 1999 GT-II : October 1999 ST : July 2000","International Assistance":"OECF","Latitude":28.346111, "Longitude":77.358333
+    },
+    {
+      "Name" : "Koldam(HEPP)",
+      "State": "Himachal Pradesh",  "Type":"hydro", "Address":"P.O. – Barmana, Distirct – Bilaspur, Himachal Pradesh-174013", "Telephone":"(STD Code – 01978) 245061","Fax": "245063","Approved Capacity":"800 MW", "Installed Capacity": "Under Construction","Coal Source":"","Water Source":"Satluj River","Beneficiary States":"Delhi, Haryana, Punjab, Rajasthan, Uttar Pradesh, Himachal Pradesh, J & K , Chandigarh","Approved Investment":"Rs. 4527.15 Crore","Unit sizes":"4X200 MW","Units Comissioned":"Under Construction","International Assistance":"","Latitude":31.384027, "Longitude":76.871111
+    },
+    {
+      "Name" : "Tapovan Vishnugad(HEPP)",
+      "State": "Uttrakhand",  "Type":"hydro", "Address":"Kagbhusandi Office, Badrinath Road, Joshimath, District Chamoli, Uttarakhand-246443", "Telephone":"(STD Code – 01389) 222192","Fax": "222435","Approved Capacity":"520 MW", "Installed Capacity": "Under Construction","Coal Source":"","Water Source":"Dhauliganga river","Beneficiary States":"Uttarakhand.","Approved Investment":"Rs. 2978.5 Crore.","Unit sizes":"4X130 MW","Units Comissioned":"Under Construction","International Assistance":"","Latitude":30.535651, "Longitude":79.519461
+    },
+    {
+      "Name" : "Lata Tapovan",
+      "State": "Uttrakhand",  "Type":"hydro", "Address":"-", "Telephone":"-","Fax": "-","Approved Capacity":"-", "Installed Capacity": "171","Coal Source":"","Water Source":"","Beneficiary States":"","Approved Investment":"","Unit sizes":"","Units Comissioned":"","International Assistance":"","Latitude":30.550785, "Longitude":79.565906
+    },
+    {
+      "Name" : "Singrauli CW Discharge",
+      "State": "Uttar Pradesh",  "Type":"hydro", "Address":"P.O. Shaktinagar-231 222, Dist. Sonebhadra, Uttar Pradesh", "Telephone":"(STD-05446) - 232441","Fax": "232432","Approved Capacity":"2000MW", "Installed Capacity": "2000 MW","Coal Source":"Jayant/Bina Mines","Water Source":"Rihand Reservoir","Beneficiary States":"Uttar Pradesh, Uttranchal ,Rajasthan, Punjab, Haryana, Delhi and Jammu & Kashmir, Himachal Pradesh, Chandigarh","Approved Investment":"Rs. 1190.69 Crore","Unit sizes":"Stage - I: 5x 200 MW Stage -II: 2x 500 MW","Units Comissioned":"Unit -I 200 MW February 1982Unit -II 200 MW November 1982 Unit -III 200 MW March 1983 Unit -IV 200 MW November 1983 Unit -V 200 MW February 1984 Unit -VI 500 MW December 1986 Unit -VII 500 MW November 1987","International Assistance":"IDA KWF","Latitude":24.120901, "Longitude":82.693918
+    },
+    {
+      "Name" : "Rammam",
+      "State": "West Bengal",  "Type":"hydro", "Address":"Approx 150 Km from Bagdogra / Siliguri in Distt. Darjeeling. The Darjeeling town is 50 km form the project.", "Telephone":"","Fax": " ","Approved Capacity":"120MW", "Installed Capacity": " ","Coal Source":"","Water Source":" ","Beneficiary States":"","Approved Investment":"","Unit sizes":" ","Units Comissioned":" ","International Assistance":" ","Latitude":26.699382, "Longitude":88.314602
+    },
+    {
+      "Name" : "Dadri Solar PV",
+      "State": "Uttar Pradesh",  "Type":"Renewable", "Address":"", "Telephone":" ","Fax": " ","Approved Capacity":" ", "Installed Capacity": "5","Coal Source":"","Water Source":" ","Beneficiary States":"","Approved Investment":"","Unit sizes":"","Units Comissioned":"","International Assistance":" ","Latitude":28.594225, "Longitude":77.610711
+    },
+    {
+      "Name" : "Port blair Solar PV",
+      "State": "Andaman and Nicobar",  "Type":"Renewable", "Address":"", "Telephone":"","Fax": "","Approved Capacity":"", "Installed Capacity": "5","Coal Source":"","Water Source":"","Beneficiary States":"","Approved Investment":"","Unit sizes":"","Units Comissioned":"","International Assistance":"","Latitude":11.624766, "Longitude":92.731609
+    },
+    {
+      "Name" : "Ramagundam Solar PV",
+      "State": "Telangana",  "Type":"Renewable", "Address":"", "Telephone":"","Fax": "","Approved Capacity":"", "Installed Capacity": "10","Coal Source":"","Water Source":"","Beneficiary States":"","Approved Investment":"","Unit sizes":"","Units Comissioned":"","International Assistance":"","Latitude":18.774021, "Longitude":79.47319
+    },
+    {
+      "Name" : "Talcher Kaniha Solar PV",
+      "State": "Orissa",  "Type":"Renewable", "Address":"", "Telephone":"","Fax": "","Approved Capacity":"", "Installed Capacity": "10","Coal Source":"","Water Source":"","Beneficiary States":"","Approved Investment":"","Unit sizes":"","Units Comissioned":"","International Assistance":"","Latitude":21.097406, "Longitude":85.074202
+    },
+    {
+      "Name" : "Faridabad Solar PV",
+      "State": "Haryana",  "Type":"Renewable", "Address":"", "Telephone":"","Fax": "","Approved Capacity":"", "Installed Capacity": "5","Coal Source":"","Water Source":"","Beneficiary States":"","Approved Investment":"","Unit sizes":"","Units Comissioned":"","International Assistance":"","Latitude":28.355515, "Longitude":77.363517
+    },
+    {
+      "Name" : "Unchar Solar PV",
+      "State": "Uttar Pradesh",  "Type":"Renewable", "Address":"", "Telephone":"","Fax": "","Approved Capacity":"", "Installed Capacity": "10","Coal Source":"","Water Source":"","Beneficiary States":"","Approved Investment":"","Unit sizes":"","Units Comissioned":"","International Assistance":"","Latitude":28.59107, "Longitude":77.226091
+    },
+    {
+      "Name" : "Rajgarh Solar PV",
+      "State": "Madya Pradesh",  "Type":"Renewable", "Address":"", "Telephone":"","Fax": "","Approved Capacity":"", "Installed Capacity": "50","Coal Source":"","Water Source":"","Beneficiary States":"","Approved Investment":"","Unit sizes":"","Units Comissioned":"","International Assistance":"","Latitude":24.008011, "Longitude":76.728043
+    },
+    {
+      "Name" : "Singrauli Solar PV",
+      "State": "Uttar Pradesh",  "Type":"Renewable", "Address":"", "Telephone":"","Fax": "","Approved Capacity":"", "Installed Capacity": "15","Coal Source":"","Water Source":"","Beneficiary States":"","Approved Investment":"","Unit sizes":"","Units Comissioned":"","International Assistance":"","Latitude":24.199333, "Longitude":82.665081
+    },
+    {
+      "Name" : "Ananthapuram Solar PV",
+      "State": "Andhra Pradesh",  "Type":"Renewable", "Address":"", "Telephone":"","Fax": "","Approved Capacity":"", "Installed Capacity": "200","Coal Source":"","Water Source":"","Beneficiary States":" ","Approved Investment":"","Unit sizes":"","Units Comissioned":"","International Assistance":"","Latitude":14.681232, "Longitude":77.60296
+    }
+
+
+  ]
+}

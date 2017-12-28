@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#EEE"
+        android:gravity="center"
+        android:text="Enter Student Details."
+        android:textColor="#ffa500"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="20dp"/>
+
+    <EditText
+        android:id="@+id/student_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:hint="Student Name"
+        android:textColor="#D81B25"
+        android:layout_marginBottom="20dp"
+        />
+
+    <EditText
+        android:id="@+id/student_roll_no"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:hint="Roll No"
+        android:textColor="#D81B25"
+        android:layout_marginBottom="20dp"
+        />
+
+    <EditText
+        android:id="@+id/student_address"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:hint="Address"
+        android:textColor="#D81B25"
+        android:layout_marginBottom="20dp"
+        />
+
+    <EditText
+        android:id="@+id/student_contact"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:hint="Contact No:"
+        android:textColor="#D81B25"
+        android:layout_marginBottom="30dp"
+        />
+
+    <Button
+        android:id="@+id/add_to_database"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add to Database"
+        android:textStyle="bold"
+        android:textColor="#D81B25"
+        android:layout_marginBottom="20dp"
+        />
+
+    <Button
+        android:id="@+id/open_database"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="View Database"
+        android:textStyle="bold"
+        android:textColor="#D81B25"
+        android:layout_marginBottom="20dp"
+        />
+
+    <Button
+        android:id="@+id/clear_database"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CleAR Database"
+        android:textStyle="bold"
+        android:textColor="#D81B25"
+        android:layout_marginBottom="20dp"
+        />
+
+
+
+</LinearLayout>
